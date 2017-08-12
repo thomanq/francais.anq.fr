@@ -13,7 +13,7 @@
     - [Concordance](http://www.cnrtl.fr/concordance/) - Chercher des exemples d'utilisation d'un mot. 
         - Par exemple : les concordances du mot « [exhorter](http://www.cnrtl.fr/concordance/exhorter) »  
 
-* [Les Voisins De Le Monde](http://redac.univ-tlse2.fr/voisinsdelemonde/) - Chercher les collocation d'un mot dans un corpus d'articles du quotidien [Le Monde](http://www.lemonde.fr/).
+* [Les Voisins De Le Monde](http://redac.univ-tlse2.fr/voisinsdelemonde/) - Chercher les collocations d'un mot dans un corpus d'articles du quotidien [Le Monde](http://www.lemonde.fr/).
 
 * [GoldenDict](http://goldendict.org/) - Dictionnaire multi-plateforme (Windows, macOs, Linux, Android) qui supporte beaucoup de formats dont StarDict.
     * GoldenDict n'inclut aucun dictionnaire. Ceux-ci doivent êtres téléchargés séparément.
@@ -40,7 +40,7 @@
 ## Lecture, prononciation et compréhension orale
 
 * [Rhinospike](https://rhinospike.com/) 
-    - [Transcriptions](https://rhinospike.com/language/fra/transcriptions/)  - Transcription de contenus audio et vidéo
+    - [Transcriptions](https://rhinospike.com/language/fra/transcriptions/)  - Transcription de contenus audio et vidéo.
     - [Enregistrements audio](https://rhinospike.com/language/fra/recordings/)  - Lecture d'un texte par un locuteur natif.
 
 ## Radio
