@@ -64,7 +64,7 @@
 * [France Info](http://www.dailymotion.com/francetvinfo)  
 * [TV5 Monde](http://information.tv5monde.com/les-jt/jt_info)  
 * [Public Sénat](http://www.dailymotion.com/video/xkxbzc)  
-* [RTL](http://videos.assemblee-nationale.fr/seance-publique)  
+* [Assemblée nationale](http://videos.assemblee-nationale.fr/seance-publique)  
 
 ## Discours
 
