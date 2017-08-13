@@ -88,7 +88,9 @@
     - [Natoo](https://www.youtube.com/user/ptitenatou/videos)  
     - [Le Rire Jaune](https://www.youtube.com/user/LeRiiiiiiiireJaune/videos)  
     - [PV Nova](https://www.youtube.com/user/pvnova/videos)  
-    - [Osons Causer](https://www.youtube.com/channel/UCVeMw72tepFl1Zt5fvf9QKQ/videos)  
+    - [Osons Causer](https://www.youtube.com/channel/UCVeMw72tepFl1Zt5fvf9QKQ/videos)
+    - [Dr Nozman](https://www.youtube.com/user/DrNozman/videos)  
+    - [e-penser](https://www.youtube.com/user/epenser1/videos)  
 
 * Chaînes avec vidéos sans sous-titres :  
     - [Bref](https://www.youtube.com/user/bref/videos)  
@@ -108,6 +110,7 @@
     - [Jimmy fait l'con](https://www.youtube.com/user/Jimmyfaitlcon/videos)  
     - [Hugo tout seul](https://www.youtube.com/user/HugoToutSeul/videos)  
     - [Julien Josselin](https://www.youtube.com/user/JulienJosselin/videos)  
+    - [FastGoodCuisine](https://www.youtube.com/user/FastGoodCuisine/videos)  
 
 ## Émissions
 
