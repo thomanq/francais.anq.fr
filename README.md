@@ -168,6 +168,11 @@
 
 ## Films 
 
+<style>
+th {
+    border-width : 0px;
+}
+</style>
 |    |   |   |
 | -- | --| --| 
 | Jeux d'enfants (2003) | [[IMDb](http://www.imdb.com/title/tt0364517/)] | [[AlloCiné](http://www.allocine.fr/film/fichefilm_gen_cfilm=46551.html)]|  
