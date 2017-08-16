@@ -168,7 +168,31 @@
 
 ## Films 
 
-*liste de films*
+|    |   |   |
+| -- | --| --| 
+| Jeux d'enfants (2003) | [[IMDb](http://www.imdb.com/title/tt0364517/)] | [[AlloCiné](http://www.allocine.fr/film/fichefilm_gen_cfilm=46551.html)]|  
+| L'auberge espagnole (2002) | [[IMDb](http://www.imdb.com/title/tt0283900/)] | [[AlloCiné](http://www.allocine.fr/film/fichefilm_gen_cfilm=33468.html)]|  
+| Les Poupées russes (2005) | [[IMDb](http://www.imdb.com/title/tt0409184/)] | [[AlloCiné](http://www.allocine.fr/film/fichefilm_gen_cfilm=55984.html)]|  
+| Casse-tête chinois (2013) | [[IMDb](http://www.imdb.com/title/tt1937118/)] | [[AlloCiné](http://www.allocine.fr/film/fichefilm_gen_cfilm=193911.html)]|  
+| L'homme qui voulait vivre sa vie (2010) | [[IMDb](http://www.imdb.com/title/tt1533818/)] | [[AlloCiné](http://www.allocine.fr/film/fichefilm_gen_cfilm=172762.html)]|  
+| Le prénom (2012) | [[IMDb](http://www.imdb.com/title/tt2179121/)] | [[AlloCiné](http://www.allocine.fr/film/fichefilm_gen_cfilm=188448.html)]|  
+| Hors de prix (2006) | [[IMDb](http://www.imdb.com/title/tt0482088/)] | [[AlloCiné](http://www.allocine.fr/film/fichefilm_gen_cfilm=108526.html)]|  
+| L'arnacœur (2010) | [[IMDb](http://www.imdb.com/title/tt1465487/)] | [[AlloCiné](http://www.allocine.fr/film/fichefilm_gen_cfilm=148441.html)]|  
+| Les triplettes de Belleville (2003) | [[IMDb](http://www.imdb.com/title/tt0286244/)] | [[AlloCiné](http://www.allocine.fr/film/fichefilm_gen_cfilm=44206.html)]|  
+| 99 francs (2007) | [[IMDb](http://www.imdb.com/title/tt0875113/)] | [[AlloCiné](http://www.allocine.fr/film/fichefilm_gen_cfilm=60627.html)]|  
+| Gainsbourg vie héroïque (2010) | [[IMDb](http://www.imdb.com/title/tt1329457/)] | [[AlloCiné](http://www.allocine.fr/film/fichefilm_gen_cfilm=133757.html)]|  
+| Le premier jour du reste de ta vie (2008) | [[IMDb](http://www.imdb.com/title/tt0926759/)] | [[AlloCiné](http://www.allocine.fr/film/fichefilm_gen_cfilm=127836.html)]|  
+| Je vous trouve très beau (2005) | [[IMDb](http://www.imdb.com/title/tt0450664/)] | [[AlloCiné](http://www.allocine.fr/film/fichefilm_gen_cfilm=59132.html)]|  
+| Le concert (2009) | [[IMDb](http://www.imdb.com/title/tt1320082/)] | [[AlloCiné](http://www.allocine.fr/film/fichefilm_gen_cfilm=110666.html)]|  
+| Ne le dis à personne (2006) | [[IMDb](http://www.imdb.com/title/tt0362225/)] | [[AlloCiné](http://www.allocine.fr/film/fichefilm_gen_cfilm=60722.html)]|  
+| De rouille et d'os (2012) | [[IMDb](http://www.imdb.com/title/tt2053425/)] | [[AlloCiné](http://www.allocine.fr/film/fichefilm_gen_cfilm=172976.html)]|  
+| Je vais bien ne t'en fais pas (2006) | [[IMDb](http://www.imdb.com/title/tt0485241/)] | [[AlloCiné](http://www.allocine.fr/film/fichefilm_gen_cfilm=108818.html)]|  
+| Astérix et Obélix mission Cléopâtre (2002) | [[IMDb](http://www.imdb.com/title/tt0250223/)] | [[AlloCiné](http://www.allocine.fr/film/fichefilm_gen_cfilm=28537.html)]|  
+| Intouchables (2011) | [[IMDb](http://www.imdb.com/title/tt1675434/)] | [[AlloCiné](http://www.allocine.fr/film/fichefilm_gen_cfilm=182745.html)]|  
+| Les choristes (2004) | [[IMDb](http://www.imdb.com/title/tt0372824/)] | [[AlloCiné](http://www.allocine.fr/film/fichefilm_gen_cfilm=50325.html)]|  
+| La cité de la peur (1994) | [[IMDb](http://www.imdb.com/title/tt0109440/)] | [[AlloCiné](http://www.allocine.fr/film/fichefilm_gen_cfilm=9400.html)]|  
+| Contre-enquête (2007) | [[IMDb](http://www.imdb.com/title/tt0825239/)] | [[AlloCiné](http://www.allocine.fr/film/fichefilm_gen_cfilm=112382.html)]|  
+| Le Fabuleux destin d'Amélie Poulain (2001) | [[IMDb](http://www.imdb.com/title/tt0211915/)] | [[AlloCiné](http://www.allocine.fr/film/fichefilm_gen_cfilm=27063.html)]|  
 
 ## Musique 
 
