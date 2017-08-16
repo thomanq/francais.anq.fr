@@ -164,7 +164,11 @@
 
 ## Séries 
 
-*liste de séries*
+|    |   |   |
+| -- | --| --| 
+| Kaamelott | [[IMDb](http://www.imdb.com/title/tt0441059/)] | [[AlloCiné](http://www.allocine.fr/series/ficheserie_gen_cserie=334.html)]|  
+| Baron Noir| [[IMDb](http://www.imdb.com/title/tt4835480/)] | [[AlloCiné](http://www.allocine.fr/series/ficheserie_gen_cserie=19344.html)]|  
+
 
 ## Films 
 
@@ -193,6 +197,7 @@
 | La cité de la peur (1994) | [[IMDb](http://www.imdb.com/title/tt0109440/)] | [[AlloCiné](http://www.allocine.fr/film/fichefilm_gen_cfilm=9400.html)]|  
 | Contre-enquête (2007) | [[IMDb](http://www.imdb.com/title/tt0825239/)] | [[AlloCiné](http://www.allocine.fr/film/fichefilm_gen_cfilm=112382.html)]|  
 | Le Fabuleux destin d'Amélie Poulain (2001) | [[IMDb](http://www.imdb.com/title/tt0211915/)] | [[AlloCiné](http://www.allocine.fr/film/fichefilm_gen_cfilm=27063.html)]|  
+| Bienvenue chez les Ch'tis | [[IMDb](http://www.imdb.com/title/tt1064932/)] | [[AlloCiné](http://www.allocine.fr/film/fichefilm_gen_cfilm=126535.html)]| 
 
 ## Musique 
 
