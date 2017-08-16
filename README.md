@@ -201,6 +201,42 @@
 
 ## Musique 
 
-*liste de groupes*
+| Artiste | Titre | Écouter |
+| -- | --| --| 
+Tété | Fils de Cham | [[Deezer](http://www.deezer.com/track/76012466)]
+Les Wriggles | Désolé Mémé | [[Deezer](http://www.deezer.com/track/2750806)]
+Camille | Ta douleur | [[Deezer](http://www.deezer.com/track/355636791)]
+Pauline Croze | T'es Beau | [[Deezer](http://www.deezer.com/track/3770305)]
+Mademoiselle K. | Jalouse | [[Deezer](http://www.deezer.com/track/114493706)]
+Aldebert | Carpe Diem | [[Deezer](http://www.deezer.com/track/135434516)]
+Bénabar | L’effet Papillon | [[Deezer](http://www.deezer.com/track/2243411)]
+Thomas Dutronc | J'Aime Plus Paris | [[YouTube](https://www.youtube.com/watch?v=VAfeqAYndZY)]
+Brigitte | Ma Benz | [[Deezer](http://www.deezer.com/track/10446169)]
+Emilie Simon | Fleur de saison | [[Deezer](http://www.deezer.com/track/2539486)]
+M | Onde Sensuelle | [[Deezer](http://www.deezer.com/track/3129679)]
+Tryo | L'hymne de nos campagnes | [[Deezer](http://www.deezer.com/track/1025582)]
+Anis | Avec le vent | [[Deezer](http://www.deezer.com/track/3120895)]
+ZAZ | Je veux | [[Deezer](http://www.deezer.com/track/7721587)]
+Jeanne Cherhal | Voilà | [[Deezer](http://www.deezer.com/track/6719493)]
+Michel Fugain | Une Belle Histoire | [[Deezer](http://www.deezer.com/track/3335680)]
+Les Innocents | Colore | [[Deezer](http://www.deezer.com/track/355704171)]
+Enzo Enzo | Les yeux ouverts | [[Deezer](http://www.deezer.com/track/994395)]
+Jane Birkin & Serge Gainsbour | Je T'aime Moi Non Plus | [[Deezer](http://www.deezer.com/track/119874134)]
+Serge Gainsbourg | Je Suis Venu Te Dire Que Je M'en Vais | [[Deezer](http://www.deezer.com/track/89077407)]
+Johnny Hallyday | Le Pénitencier | [[Deezer](http://www.deezer.com/track/14113659)]
+Sanseverino | Frida | [[Deezer](http://www.deezer.com/track/857824)]
+La Rue Kétanou | Tu parles trop | [[Deezer](http://www.deezer.com/track/37150031)]
+Louise Attaque | Léa | [[Deezer](http://www.deezer.com/track/983258)]
+Debout Sur Le Zinc | J'ai | [[Deezer](http://www.deezer.com/track/67417748)]
+Matmatah | Emma | [[Deezer](http://www.deezer.com/track/17143857)]
+Pep's | Liberta | [[Deezer](http://www.deezer.com/track/2830172)]
+Olivia Ruiz | Elle panique | [[Deezer](http://www.deezer.com/track/7856785)]
+La Grande Sophie | Les portes claquent | [[Deezer](http://www.deezer.com/track/107881042)]
+Volo | Tu m'fais marrer (bébé) | [[Deezer](http://www.deezer.com/track/2150857)]
+Alexis HK | Chicken Manager | [[Deezer](http://www.deezer.com/track/2829122)]
+Renan Luce | La lettre | [[Deezer](http://www.deezer.com/track/371636731)]
+Noir Désir | À ton étoile | [[Deezer](http://www.deezer.com/track/2628858)]
+Cali | Elle m'a dit | [[Deezer](http://www.deezer.com/album/323814)]
+Java | Métro | [[Deezer](http://www.deezer.com/track/896103)]
 
 
