@@ -164,16 +164,16 @@
 
 ## Séries 
 
-|    |   |   |
-| -- | --| --| 
+|    |    |    |
+| -- | -- | -- | 
 | Kaamelott | [[IMDb](http://www.imdb.com/title/tt0441059/)] | [[AlloCiné](http://www.allocine.fr/series/ficheserie_gen_cserie=334.html)]|  
 | Baron Noir| [[IMDb](http://www.imdb.com/title/tt4835480/)] | [[AlloCiné](http://www.allocine.fr/series/ficheserie_gen_cserie=19344.html)]|  
 
 
 ## Films 
 
-|    |   |   |
-| -- | --| --| 
+|    |    |    |
+| -- | -- | -- | 
 | Jeux d'enfants (2003) | [[IMDb](http://www.imdb.com/title/tt0364517/)] | [[AlloCiné](http://www.allocine.fr/film/fichefilm_gen_cfilm=46551.html)]|  
 | L'auberge espagnole (2002) | [[IMDb](http://www.imdb.com/title/tt0283900/)] | [[AlloCiné](http://www.allocine.fr/film/fichefilm_gen_cfilm=33468.html)]|  
 | Les Poupées russes (2005) | [[IMDb](http://www.imdb.com/title/tt0409184/)] | [[AlloCiné](http://www.allocine.fr/film/fichefilm_gen_cfilm=55984.html)]|  
@@ -202,7 +202,7 @@
 ## Musique 
 
 | Artiste | Titre | Écouter |
-| -- | --| --| 
+| -- | -- | -- | 
 Tété | Fils de Cham | [[Deezer](http://www.deezer.com/track/76012466)]
 Les Wriggles | Désolé Mémé | [[Deezer](http://www.deezer.com/track/2750806)]
 Camille | Ta douleur | [[Deezer](http://www.deezer.com/track/355636791)]
@@ -221,7 +221,7 @@ Jeanne Cherhal | Voilà | [[Deezer](http://www.deezer.com/track/6719493)]
 Michel Fugain | Une Belle Histoire | [[Deezer](http://www.deezer.com/track/3335680)]
 Les Innocents | Colore | [[Deezer](http://www.deezer.com/track/355704171)]
 Enzo Enzo | Les yeux ouverts | [[Deezer](http://www.deezer.com/track/994395)]
-Jane Birkin & Serge Gainsbour | Je T'aime Moi Non Plus | [[Deezer](http://www.deezer.com/track/119874134)]
+Jane Birkin & Serge Gainsbourg | Je T'aime Moi Non Plus | [[Deezer](http://www.deezer.com/track/119874134)]
 Serge Gainsbourg | Je Suis Venu Te Dire Que Je M'en Vais | [[Deezer](http://www.deezer.com/track/89077407)]
 Johnny Hallyday | Le Pénitencier | [[Deezer](http://www.deezer.com/track/14113659)]
 Sanseverino | Frida | [[Deezer](http://www.deezer.com/track/857824)]
