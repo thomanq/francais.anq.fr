@@ -88,6 +88,7 @@
     - [Natoo](https://www.youtube.com/user/ptitenatou/videos)  
     - [Le Rire Jaune](https://www.youtube.com/user/LeRiiiiiiiireJaune/videos)  
     - [PV Nova](https://www.youtube.com/user/pvnova/videos)  
+    - [Cyrus North](https://www.youtube.com/user/LeCoupdePhil/videos)
     - [Osons Causer](https://www.youtube.com/channel/UCVeMw72tepFl1Zt5fvf9QKQ/videos)
     - [Dr Nozman](https://www.youtube.com/user/DrNozman/videos)  
     - [e-penser](https://www.youtube.com/user/epenser1/videos)  
