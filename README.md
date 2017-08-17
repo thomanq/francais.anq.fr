@@ -129,6 +129,9 @@
 * Émissions de radio avec transcription :
     - [Fabrique de sens](http://www.fabriquedesens.net/-Transcriptions-d-emissions-de-)  
 
+* Chroniques radio :
+    - [France Inter - Chroniques sous-titrées](https://www.youtube.com/playlist?list=PLGBgCV4hsYnOiTgss6uNbmXPK2HvZ2ort)
+
 ## Journaux
 
 * Journaux télévisés sous-titrés :
@@ -156,6 +159,7 @@
 - [Les Guignols de l'info](http://www.canalplus.fr/humour/pid1784-les-guignols.html)  
 - [Golden Moustache](http://www.goldenmoustache.com/)
 - [Le Gorafi](http://www.legorafi.fr/) - journal satirique
+- [Best of de l'humour de France Inter](https://www.youtube.com/playlist?list=PL43OynbWaTMJDY5ywjAvl_zNCtsP968th)
 
 ## BD, caricatures
 
