@@ -58,7 +58,7 @@
       29:17 « Il y a rien de pire qu’un mort qui tombe à 10h, on boucle à 10h30 du matin. » |br|
       Les nécrologies sont écrites des années à l’avance.
     - 32:10 Visite de François Hollande (pas encore président). Critique du bilan de Nicolas Sarkozy.
-    - 34:50 Le nombre de journalistes augmente par rapport à 2007 du fait de l’augmentation médias classiques + web.
+    - 34:50 Le nombre de journalistes augmente par rapport à 2007 du fait de l’augmentation médias classiques + web. |br|
       -> Pourquoi « 2007 » ? À quoi cette année fait-elle référence ?
     - 41:10 Le Pen « désinformation, diabolisation », affiche avec Jeanne d’Arc.
     - 43:27 Le Monde académie (18/25 ans, pas de critères de diplômes). Son but : augmenter la diversité. |br|
