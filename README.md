@@ -204,6 +204,23 @@
 | Le Fabuleux destin d'Amélie Poulain (2001) | [[IMDb](http://www.imdb.com/title/tt0211915/)] | [[AlloCiné](http://www.allocine.fr/film/fichefilm_gen_cfilm=27063.html)]|  
 | Bienvenue chez les Ch'tis | [[IMDb](http://www.imdb.com/title/tt1064932/)] | [[AlloCiné](http://www.allocine.fr/film/fichefilm_gen_cfilm=126535.html)]| 
 
+* Films politiques :
+
+|    |    |    |
+| -- | -- | -- | 
+| Chez nous (2017) | [[IMDb](http://www.imdb.com/title/tt6144536/)] | [[AlloCiné](http://www.allocine.fr/film/fichefilm_gen_cfilm=246368.html)]|  
+| Quai d'Orsay (2013) | [[IMDb](http://www.imdb.com/title/tt2609222/)] | [[AlloCiné](http://www.allocine.fr/film/fichefilm_gen_cfilm=203464.html)]|  
+| L'enquête (2014) | [[IMDb](http://www.imdb.com/title/tt3037028/)] | [[AlloCiné](http://www.allocine.fr/film/fichefilm_gen_cfilm=216189.html)]|  
+| L'exercice de l'État (2011) | [[IMDb](http://www.imdb.com/title/tt1781843/)] | [[AlloCiné](http://www.allocine.fr/film/fichefilm_gen_cfilm=174671.html)]|  
+| La conquête (2011) | [[IMDb](http://www.imdb.com/title/tt1711484/)] | [[AlloCiné](http://www.allocine.fr/film/fichefilm_gen_cfilm=183520.html)]|  
+
+* Documentaires politiques :
+
+|    |    |    |
+| -- | -- | -- | 
+| Les gens du Monde (2014) | [[IMDb](http://www.imdb.com/title/tt3703932/)] | [[AlloCiné](http://www.allocine.fr/film/fichefilm_gen_cfilm=227920.html)]|  
+| Edouard, mon pote de droite (2016) | [[IMDb](http://www.imdb.com/title/tt5570158/)] | [[AlloCiné](http://www.allocine.fr/film/fichefilm_gen_cfilm=245970.html)]|  
+
 ## Musique 
 
 | Artiste | Titre | Écouter |
