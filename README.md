@@ -1,22 +1,22 @@
 
 # Table des matières
 
-- [Conjugaison](#user-content-conjugaison)
-- [Dictionnaires](#user-content-dictionnaires)
-- [Applications](#user-content-applications)
-- [Expressions](#user-content-expressions)
-- [Lecture, prononciation et compréhension orale](#user-content-lecture-prononciation-et-compréhension-orale)
-- [Radio](#user-content-radio)
-- [TV](#user-content-tv)
-- [Discours](#user-content-discours)
-- [Chaînes YouTube](#user-content-chaînes-youtube)
-- [Émissions](#user-content-Émissions)
-- [Journaux](#user-content-journaux)
-- [Humour](#user-content-humour)
-- [BD, caricatures](#user-content-bd-caricatures)
-- [Séries](#user-content-séries)
-- [Films](#user-content-films)
-- [Musique](#user-content-musique)
+- [Conjugaison](#conjugaison)
+- [Dictionnaires](#dictionnaires)
+- [Applications](#applications)
+- [Expressions](#expressions)
+- [Lecture, prononciation et compréhension orale](#lecture-prononciation-et-compréhension-orale)
+- [Radio](#radio)
+- [TV](#tv)
+- [Discours](#discours)
+- [Chaînes YouTube](#chaînes-youtube)
+- [Émissions](#Émissions)
+- [Journaux](#journaux)
+- [Humour](#humour)
+- [BD, caricatures](#bd-caricatures)
+- [Séries](#séries)
+- [Films](#films)
+- [Musique](#musique)
 
 - - -
 
