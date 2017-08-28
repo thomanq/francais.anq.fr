@@ -1,27 +1,24 @@
 
-<div class="toc-container" style="border: 1px solid #a2a9b1;background-color: #f8f9fa;margin: 47px 0 49px;">
-    <div class="toc-title" style="font-weight: bold;font-size: 25px;padding: 19px 0px 19px 20px;">Table des matières</div>
-    <div class="toc">
-        <ul>
-            <li><a href="#user-content-conjugaison">Conjugaison</a></li>
-            <li><a href="#user-content-dictionnaires">Dictionnaires</a></li>
-            <li><a href="#user-content-applications">Applications</a></li>
-            <li><a href="#user-content-expressions">Expressions</a></li>
-            <li><a href="#user-content-lecture-prononciation-et-compréhension-orale">Lecture, prononciation et compréhension orale</a></li>
-            <li><a href="#user-content-radio">Radio</a></li>
-            <li><a href="#user-content-tv">TV</a></li>
-            <li><a href="#user-content-discours">Discours</a></li>
-            <li><a href="#user-content-chaînes-youtube">Chaînes YouTube</a></li>
-            <li><a href="#user-content-Émissions">Émissions</a></li>
-            <li><a href="#user-content-journaux">Journaux</a></li>
-            <li><a href="#user-content-humour">Humour</a></li>
-            <li><a href="#user-content-bd-caricatures">BD, caricatures</a></li>
-            <li><a href="#user-content-séries">Séries</a></li>
-            <li><a href="#user-content-films">Films</a></li>
-            <li><a href="#user-content-musique">Musique</a></li>
-        </ul>
-    </div>
-</div>
+# Table des matières
+
+- [Conjugaison](#user-content-conjugaison)
+- [Dictionnaires](#user-content-dictionnaires)
+- [Applications](#user-content-applications)
+- [Expressions](#user-content-expressions)
+- [Lecture, prononciation et compréhension orale](#user-content-lecture-prononciation-et-compréhension-orale)
+- [Radio](#user-content-radio)
+- [TV](#user-content-tv)
+- [Discours](#user-content-discours)
+- [Chaînes YouTube](#user-content-chaînes-youtube)
+- [Émissions](#user-content-Émissions)
+- [Journaux](#user-content-journaux)
+- [Humour](#user-content-humour)
+- [BD, caricatures](#user-content-bd-caricatures)
+- [Séries](#user-content-séries)
+- [Films](#user-content-films)
+- [Musique](#user-content-musique)
+
+- - -
 
 ## Conjugaison
 
