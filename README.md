@@ -14,6 +14,7 @@
 - [Journaux](#journaux)
 - [Humour](#humour)
 - [BD, caricatures](#bd-caricatures)
+- [Réseaux sociaux](#réseaux-sociaux)
 - [Séries](#séries)
 - [Films](#films)
 - [Musique](#musique)
@@ -179,6 +180,7 @@
 
 - [On n'demande qu'à en rire](https://www.youtube.com/user/ondarprime/videos) - émission humoristique
 - [Les Guignols de l'info](http://www.canalplus.fr/humour/pid1784-les-guignols.html)  
+- [Les têtes à claques](https://www.youtube.com/user/salamboproductions/videos?flow=grid&view=0&sort=p)
 - [Golden Moustache](http://www.goldenmoustache.com/)
 - [Le Gorafi](http://www.legorafi.fr/) - journal satirique
 - [Best of de l'humour de France Inter](https://www.youtube.com/playlist?list=PL43OynbWaTMJDY5ywjAvl_zNCtsP968th)
@@ -249,6 +251,49 @@
 
 - [L'actu en patates](http://vidberg.blog.lemonde.fr/)  
 - [Les dessins du Courrier international](http://www.courrierinternational.com/dessin)  
+
+## Réseaux sociaux
+
+- Divers :
+
+|    |    |
+| -- | -- |
+| M. Mondialisation | [[Facebook](https://www.facebook.com/M.Mondialisation/)] |
+| Monsieur Le Prof | [[Facebook](https://www.facebook.com/bongeourre/)] |
+
+- Médias classiques :
+
+|    |    |
+| -- | -- |
+| 20 minutes | [[Facebook](https://www.facebook.com/20minutes/)] |
+| BFMTV | [[Facebook](https://www.facebook.com/BFMTV/)] |
+| Courrier International | [[Facebook](https://www.facebook.com/courrierinternational.com/)] |
+| France 2 | [[Facebook](https://www.facebook.com/france2/)] |
+| France 3 | [[Facebook](https://www.facebook.com/france3/)] |
+| France Culture | [[Facebook](https://www.facebook.com/franceculture/)] |
+| France Info | [[Facebook](https://www.facebook.com/franceinfo/)] |
+| France Inter | [[Facebook](https://www.facebook.com/franceinter/)] |
+| Institut National Audiovisuel | [[Facebook](https://www.facebook.com/Ina.fr/)] |
+| L'Express | [[Facebook](https://www.facebook.com/LExpress/)] |
+| L'Obs | [[Facebook](https://www.facebook.com/lenouvelobservateur/)] |
+| LCI | [[Facebook](https://www.facebook.com/LCI/)] |
+| Le Figaro | [[Facebook](https://www.facebook.com/lefigaro/)] |
+| Le Monde | [[Facebook](https://www.facebook.com/lemonde.fr/)] |
+| Le Monde diplomatique | [[Facebook](https://www.facebook.com/lemondediplo/)] |
+| Le Petit Journal | [[Facebook](https://www.facebook.com/LPJofficiel/)] |
+| Les Guignols de l'Info | [[Facebook](https://www.facebook.com/GuignolsInfo/)] |
+| Psychologies | [[Facebook](https://www.facebook.com/Psychologies/)] |
+| Quotidien avec Yann Barthès | [[Facebook](https://www.facebook.com/Qofficiel/)] |
+| RFI | [[Facebook](https://www.facebook.com/RadioFranceInternationale/)] |
+
+- L'humour sur les réseaux sociaux :
+
+|    |    |
+| -- | -- |
+| Golden Moustache | [[Facebook](https://www.facebook.com/GoldenMoustache/)] |
+| Le Gorafi (journal satirique) | [[Facebook](https://www.facebook.com/legorafi/)] |
+| Studio Bagel | [[Facebook](https://www.facebook.com/studiobagel/)] |
+| Topito | [[Facebook](https://www.facebook.com/Topito-136164895246/)] |
 
 ## Séries 
 
@@ -359,6 +404,7 @@ La Ruda Salska | Dépass'man | [[Deezer](http://www.deezer.com/track/896843)]
 Les Fatals Picards | La France du petit Nicolas | [[Deezer](http://www.deezer.com/track/10180145)]
 M | Comme un seul homme &nbsp;&nbsp;#JeSuisCharlie | [[YouTube](https://www.youtube.com/watch?v=76XELDGhs00)]
 Mickey 3d | Respire | [[Deezer](http://www.deezer.com/track/3092637)]
+No One Is Innocent | La Peur | [[YouTube](https://www.youtube.com/watch?v=28xaKC2Iiok)]
 Noir Désir | L'Homme Pressé | [[YouTube](https://www.youtube.com/watch?v=by1RRP9wa_Y)]
 Noir Désir | Un Jour En France | [[YouTube](https://www.youtube.com/watch?v=LzHoZYextb8&t=32s)]
 Renaud | Elle est facho | [[YouTube](https://www.youtube.com/watch?v=3eMFNkcTOFA)]
