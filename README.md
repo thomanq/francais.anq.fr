@@ -36,14 +36,14 @@
 
 * [Les Voisins De Le Monde](http://redac.univ-tlse2.fr/voisinsdelemonde/) - Chercher les collocations d'un mot dans un corpus d'articles du quotidien [Le Monde](http://www.lemonde.fr/).
 
-* [GoldenDict](http://goldendict.org/) - Dictionnaire multi-plateforme (Windows, macOs, Linux, Android) qui supporte beaucoup de formats dont StarDict.
+* [GoldenDict](http://goldendict.org/) - Dictionnaire multi-plateforme ([Windows](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Windows), [macOs](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Mac-OS-X), [Linux](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Linux-Portable), [Android](http://goldendict.mobi/)) qui supporte beaucoup de formats dont StarDict.
     * GoldenDict n'inclut aucun dictionnaire. Ceux-ci doivent êtres téléchargés séparément.
     * Pratique pour se faire une liste de vocabulaire : GoldenDict permet d'importer une liste de mot au format .txt dans les sections « historique » et/ou « favoris ».
 
 ## Applications
 
 * Tandem linguistique :
-    - [italki](https://www.italki.com/)  
+    - [italki](https://www.italki.com/app)  
     - [Hello Pal](http://www.hellopal.com/)  
     - [HelloTalk](https://www.hellotalk.com/)  
     - [Tandem](https://www.tandem.net/)  
@@ -57,6 +57,14 @@
 ## Expressions
 
 * [Expressio.fr](http://www.expressio.fr/toutes_les_expressions.php) - Liste assez complète d'expressions françaises.
+
+## Figures de style
+
+* [Liste de figures de style](https://francais.anq.fr/figures-de-style/)
+
+## Argot
+
+* [Liste de mots d'argot et de verlan](https://francais.anq.fr/argot.html)
 
 ## Lecture, prononciation et compréhension orale
 
@@ -81,7 +89,8 @@
 * [Euronews](http://fr.euronews.com/live)  
 * [BFM Paris](http://www.bfmtv.com/mediaplayer/live-bfm-paris/)  
 * [BFM Business](http://bfmbusiness.bfmtv.com/mediaplayer/live-video/)  
-* [BFMTV](http://www.dailymotion.com/BFMTV)  
+* [BFMTV](http://www.dailymotion.com/BFMTV) 
+* [LCI](http://www.lci.fr/direct/) 
 * [France Info](http://www.dailymotion.com/francetvinfo)  
 * [TV5 Monde](http://information.tv5monde.com/les-jt/jt_info)  
 * [Public Sénat](http://www.dailymotion.com/video/xkxbzc)  
@@ -132,8 +141,11 @@
     - [Aziatomik](https://www.youtube.com/user/Aziatomik/videos)  
     - [Jimmy fait l'con](https://www.youtube.com/user/Jimmyfaitlcon/videos)  
     - [Hugo tout seul](https://www.youtube.com/user/HugoToutSeul/videos)  
-    - [Julien Josselin](https://www.youtube.com/user/JulienJosselin/videos)  
+    - [Julien Josselin](https://www.youtube.com/user/JulienJosselin/videos) 
+    - [Studio Danielle](https://www.youtube.com/channel/UC1iLfWw_KN-UrEDLSdd3L_A/videos) 
+    - [Je ne suis pas une senior !](https://www.youtube.com/channel/UCsN71GGH14YEv2GIgPondQw/videos) 
     - [FastGoodCuisine](https://www.youtube.com/user/FastGoodCuisine/videos)  
+    - [Nicolas Meyrieux](https://www.youtube.com/user/NicolasMeyrieux/videos)  
 
 ## Émissions
 
@@ -200,13 +212,13 @@
 | Coluche | [[Wiki](https://fr.wikipedia.org/wiki/Coluche)] | [[AlloCiné](http://www.allocine.fr/personne/fichepersonne_gen_cpersonne=3435.html)] | [[YouTube](https://www.youtube.com/watch?v=IAdQI87OUGQ&t=55s)]|
 | Jean-Marie Bigard | [[Wiki](https://fr.wikipedia.org/wiki/Jean-Marie_Bigard)] | [[AlloCiné](http://www.allocine.fr/personne/fichepersonne_gen_cpersonne=19654.html)] | [[YouTube](https://www.youtube.com/watch?v=Gnrx00LvAvM)]|
 | Élie Semoun | [[Wiki](https://fr.wikipedia.org/wiki/Élie_Semoun)] | [[AlloCiné](http://www.allocine.fr/personne/fichepersonne_gen_cpersonne=24795.html)] | [[YouTube](https://www.youtube.com/watch?v=vLyY0nd_qbA)]|
-| Pierre Palmade | [[Wiki](https://de.wikipedia.org/wiki/Pierre_Palmade)] | [[AlloCiné](http://www.allocine.fr/personne/fichepersonne_gen_cpersonne=25658.html)] | [[YouTube](https://www.youtube.com/watch?v=DslgfJ0scEY)]|
+| Pierre Palmade | [[Wiki](https://fr.wikipedia.org/wiki/Pierre_Palmade)] | [[AlloCiné](http://www.allocine.fr/personne/fichepersonne_gen_cpersonne=25658.html)] | [[YouTube](https://www.youtube.com/watch?v=DslgfJ0scEY)]|
 | Michèle Laroque | [[Wiki](https://fr.wikipedia.org/wiki/Michèle_Laroque)] |  | [[YouTube](https://www.youtube.com/watch?v=hU4DIdgjX0A)]|
 | Muriel Robin | [[Wiki](https://fr.wikipedia.org/wiki/Muriel_Robin)] | [[AlloCiné](http://www.allocine.fr/personne/fichepersonne_gen_cpersonne=5120.html)] | [[YouTube](https://www.youtube.com/watch?v=7xhb5chrJ9U)]|
 | Guy Bedos | [[Wiki](https://fr.wikipedia.org/wiki/Guy_Bedos)] | | [[YouTube](https://www.youtube.com/watch?v=GGkXoAJh6fE)]|
 | Olivier de Benoist (ODB) | [[Wiki](https://fr.wikipedia.org/wiki/Olivier_de_Benoist)] | | [[YouTube](https://www.youtube.com/playlist?list=PLZs_r-eW6cWosJV33gyInU23VDKtrgHAm)]|
-| Dany Boon | [[Wiki](https://de.wikipedia.org/wiki/Dany_Boon)] | [[AlloCiné](http://www.allocine.fr/personne/fichepersonne_gen_cpersonne=37979.html)] | [[YouTube](https://www.youtube.com/watch?v=wKm4Ik2a8sA)]|
-| Franck Dubosc | [[Wiki](https://de.wikipedia.org/wiki/Franck_Dubosc)] | [[AlloCiné](http://www.allocine.fr/personne/fichepersonne_gen_cpersonne=5826.html)] | [[YouTube](https://www.youtube.com/watch?v=Tz1xc3ghvGo&t=32s)]|
+| Dany Boon | [[Wiki](https://fr.wikipedia.org/wiki/Dany_Boon)] | [[AlloCiné](http://www.allocine.fr/personne/fichepersonne_gen_cpersonne=37979.html)] | [[YouTube](https://www.youtube.com/watch?v=wKm4Ik2a8sA)]|
+| Franck Dubosc | [[Wiki](https://fr.wikipedia.org/wiki/Franck_Dubosc)] | [[AlloCiné](http://www.allocine.fr/personne/fichepersonne_gen_cpersonne=5826.html)] | [[YouTube](https://www.youtube.com/watch?v=Tz1xc3ghvGo&t=32s)]|
 | Les Inconnus | [[Wiki](https://fr.wikipedia.org/wiki/Les_Inconnus)] | [[AlloCiné](http://www.allocine.fr/tag-5365/films/)] | [[YouTube](https://www.youtube.com/watch?v=EUUKuCj_Q00)]|
 | Les Nuls | [[Wiki](https://fr.wikipedia.org/wiki/Les_Nuls)] | [[AlloCiné](http://www.allocine.fr/film/fichefilm_gen_cfilm=9400.html)] | [[YouTube](https://www.youtube.com/watch?v=IvuoQ9fIsg4)]|
 | Gaspard Proust | [[Wiki](https://fr.wikipedia.org/wiki/Gaspard_Proust)] | [[AlloCiné](http://www.allocine.fr/personne/fichepersonne_gen_cpersonne=509767.html)] | [[YouTube](https://www.youtube.com/watch?v=jdXXGydUFn4)]|
@@ -260,6 +272,7 @@
 | -- | -- |
 | M. Mondialisation | [[Facebook](https://www.facebook.com/M.Mondialisation/)] |
 | Monsieur Le Prof | [[Facebook](https://www.facebook.com/bongeourre/)] |
+| Osons causer | [[Facebook](https://www.facebook.com/osonscauser/)] |
 
 - Médias classiques :
 
@@ -416,3 +429,15 @@ Téléphone | Argent trop cher | [[YouTube](https://www.youtube.com/watch?v=AZcy
 Tryo | #JeSuisCharlie | [[YouTube](https://www.youtube.com/watch?v=yNpOz44RM20)]
 Tryo | Co j'ai marre | [[Deezer](http://www.deezer.com/track/576840)]
 Tryo | L'hymne de nos campagnes | [[Deezer](http://www.deezer.com/track/1025582)]
+
+## Littérature
+
+Forums et critiques de livres :
+
+|  |  |  |  | 
+| -- | -- | -- | -- | 
+| Livraddict | [[site Web](http://www.livraddict.com/)] | [[forum](http://www.livraddict.com/forum/)] | [[Facebook](https://www.facebook.com/Livraddict)] |
+| Booknode  | [[site Web](https://booknode.com/)] | [[forum](https://booknode.com/forum/)] | [[Facebook](https://www.facebook.com/Booknode/)] |
+| Sens critique | [[site Web](https://www.senscritique.com/)] | | [[Facebook](https://www.facebook.com/senscritique)] | 
+| Babelio  | [[site Web](https://www.babelio.com/)] | | [[Facebook](https://www.facebook.com/babelio/)] | 
+| Critique libres | [[site Web](http://www.critiqueslibres.com/)] | [[forum](http://www.critiqueslibres.com/i.php/forum/list)] | [[Facebook](https://www.facebook.com/CritiqueLibres/)] | 
