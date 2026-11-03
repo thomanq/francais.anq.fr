@@ -180,6 +180,9 @@
 * Journaux radio avec transcription :
     - [RFI - Le journal en français facile](https://savoirs.rfi.fr/fr/apprendre-enseigner/langue-francaise/journal-en-francais-facile)
   
+* Actualité en français facile :
+    - [MotsActu](https://motsactu.com/learn/) - Actualité réécrite chaque jour aux niveaux A1 à B2, avec quiz et fiches imprimables gratuites.
+  
 * Presse écrite :
     - [Courrier International](http://www.courrierinternational.com/)  
     - [NouvelObs](https://tempsreel.nouvelobs.com/)  
